@@ -1,0 +1,11 @@
+字体格式为“.ttf”。
+以Windows10系统为例，将FuNEn.ttf文件复制：
+电脑-设置（控制面板）-个性化-字体文件夹，
+粘贴即可自动安装到电脑。
+
+The font format is ". ttf".
+Taking Windows 10 system as an example, copy the FuNEn.ttf file: 
+Computer - Settings (Control Panel) - Personalization - Font folder, 
+paste it to automatically install it on the computer.
+
+Macbook字体安装可自行百度搜索安装方法。
